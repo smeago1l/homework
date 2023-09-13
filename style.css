@@ -1,0 +1,42 @@
+.container {
+    max-width: 1696px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(12, 112px);
+    grid-gap: 32px;
+  }
+  
+  .column {
+    background-color: #eaeaea;
+    padding: 10px;
+  }
+  .header{
+    width: 1920px;
+    height: 120px;
+  }
+  main{
+    width: 1920px;
+    height: 1080px;
+    top: 120px;
+    left: -5px;
+  }
+  .second section{
+    width: 1920px;
+    height: 560px;
+    top: 1124px;
+  }
+  .third section{
+    width: 1920px;
+    height: 1280px;
+    top: 1684px;
+    left: 1px;
+    }
+    .Logo{
+      width: 48px;
+      height: 76px;
+      top: 27px;
+      left: 112px;
+      border: 2px;
+      
+    }
+  
